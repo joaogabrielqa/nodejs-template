@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "description": "Template para NodeJS e TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielqa/nodejs-template.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Template",
+    "TDD"
+  ],
+  "author": "Joao Gabriel QA <gabrielaraujo18@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaogabrielqa/nodejs-template/issues"
+  },
+  "homepage": "https://github.com/joaogabrielqa/nodejs-template#readme"
+}
